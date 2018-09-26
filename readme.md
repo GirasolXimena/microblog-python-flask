@@ -1,10 +1,15 @@
 # Microblog
 
-## Python - flask intro project
+## Python - Flask Blogging service
 
 ### Information
 
-This is a repository for making a microblog with the following features:
+This is a repository for making a Blog with the following features:
 
 - User/Login
 - Password Hashing
+- Text posts from users 
+-follow/unfollow users
+-pagination
+
+###Database through SQLAlchemy
